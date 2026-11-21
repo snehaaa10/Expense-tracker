@@ -1,0 +1,16 @@
+# compiled output
+out/
+bin/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
